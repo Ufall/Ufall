@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Ufall  
+# 👋 Hi, I’m @Anirudha  
 
 ## 🚀 About Me  
 - 👀 Interested in **Coding**, **Software Development**, and **Gaming**  
