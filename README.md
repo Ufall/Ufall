@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @Ufall
-- 👀 I’m interested in coding world/gaming
-- 🌱 I’m currently learning BCA/MCA
-- 💞️ I’m looking to collaborate 
-- 📫  reach me on anugaikwad333@gmail.com
+# 👋 Hi, I’m @Ufall  
 
-<!---
-Ufall/Ufall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me  
+- 👀 Interested in **Coding**, **Software Development**, and **Gaming**  
+- 🌱 Currently learning **BCA / MCA** with a strong focus on programming and technology  
+- 💞️ Open to **collaborating on projects**, mini-apps, and learning-based repositories  
+- 🎯 Goal: To become a skilled developer and build real-world applications  
+
+## 🛠️ Skills & Interests  
+- Programming & Problem Solving  
+- Web Development  
+- Game Development (Learning phase)  
+- Exploring new technologies  
+
+## 📫 Contact Me  
+- 📧 Email: **anugaikwad333@gmail.com**
+- 📧 Email: **anirudhagaikwad33@gmail.com**
+
+
+---
+
+✨ *This repository is special because its `README.md` appears on my GitHub profile.*  
+Feel free to explore my repositories and connect with me!
